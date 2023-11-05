@@ -27,5 +27,7 @@
 # Setup chatapp frontend reactapp
 
 - npx create-react-app frontend
-
+- Install socket.io-client, npm i socket.io-client
+- Added proxy
+- 
 https://socket.io/docs/v3/emit-cheatsheet/
